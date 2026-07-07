@@ -17,7 +17,7 @@
 <!-- Drop images into /docs and update these paths -->
 | Bracket view | Admin panel | Desktop client |
 |---|---|---|
-| ![Bracket](docs/bracket.png) | ![Admin](docs/admin.png) | ![Desktop](docs/desktop.png) |
+| ![Bracket](docs/chat.png) | ![Admin](docs/admin.png) | ![Desktop](docs/desktop.png) |
 
 ---
 
