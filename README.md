@@ -1,13 +1,3 @@
-# WNTG
-WeNameTheGame (WNTG)
-
-<!--
-  CASE-STUDY README for WNTG
-  -> Create a PUBLIC repo (e.g. "WNTG") that contains ONLY this README + a /docs
-     folder with screenshots. Keep the real source in a separate PRIVATE repo.
-  -> Replace [PLACEHOLDER] items and screenshot paths.
--->
-
 # 🏆 WNTG — Tournament & Venue-Management Platform
 
 **Real-time, multi-tenant platform that runs live gaming tournaments across a franchise network — with a native desktop client and self-updating deployment.**
