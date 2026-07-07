@@ -17,7 +17,7 @@
 <!-- Drop images into /docs and update these paths -->
 | Chat view | Admin panel | Desktop client |
 |---|---|---|
-| ![Bracket](docs/chat.png) | ![Admin](docs/admin.png) | ![Desktop](docs/desktop.png) |
+| ![Chat](docs/chat.png) | ![Admin](docs/admin.png) | ![Desktop](docs/desktop.png) |
 
 ---
 
